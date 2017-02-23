@@ -1,0 +1,42 @@
+h1,
+h2 {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.content {
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#headshot {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+.row a {
+    margin: 20px 15px
+}
+
+header{
+    padding: 100px 0 75px;
+}
+
+main{
+    margin: 0px 0 0px;
+}
